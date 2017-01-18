@@ -1,6 +1,6 @@
 # Regionalização hidrológica do Estado de Santa Catarina: uma abordagem sazonal e geoestatística baseada em modelos 
 
-## Modelo de regionalização de Santa Catarina
+## Modelo de regionalização de vazãoes de Santa Catarina
  
   * RVSC [http://52.67.209.248/rvsc/index.php] (http://52.67.209.248/rvsc/index.php)
 
