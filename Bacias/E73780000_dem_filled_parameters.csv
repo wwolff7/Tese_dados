@@ -1,0 +1,34 @@
+Morphometric parameters of basin :
+ 
+Easting Centroid of basin,305929.94
+Northing Centroid of basin,7066238.83
+Rectangle containing basin N-W,"('291173.67686144', '7084456.9762218')"
+Rectangle containing basin S-E,"('316964.68358368', '7041183.47500998')"
+Area of basin [km^2],641.638433492026
+Perimeter of basin [km],148.379318658821
+Max Elevation [m s.l.m.],973.0
+Min Elevation [m s.l.m.],360.0
+Elevation Difference [m],613.0
+Mean Elevation,691.3618
+Mean Slope,9.84
+Length of Directing Vector [km],24.95002750874067
+"Prevalent Orientation [degree from north, counterclockwise]",1.3752998254995346
+Compactness Coefficient,5.191264154583002
+Circularity Ratio,0.36622963896496646
+Topological Diameter,64.0
+Elongation Ratio,0.3610952529440791
+Shape Factor,8.106099023032487
+"Concentration Time (Giandotti, 1934) [hr]",11.109915228739425
+Length of Mainchannel [km],79.155020395
+Mean slope of mainchannel [percent],1.1610490160230504
+Mean hillslope length [m],121072.9
+Magnitudo ,230.0
+Max order (Strahler) ,        5 
+Number of streams ,        368 
+Total Stream Length [km] ,     595.8669 
+First order stream frequency ,0.3584573304754481
+Drainage Density [km/km^2] ,0.9286646012725251
+Bifurcation Ratio (Horton) ,  4.1237 
+Length Ratio (Horton) ,  2.8421 
+Area ratio (Horton) ,   3.2282 
+Slope ratio (Horton) ,  2.0924 
